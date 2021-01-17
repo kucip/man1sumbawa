@@ -6,6 +6,6 @@
 
 <!-- isi bagian konten | cara penulisan isi section yang panjang-->
 @section('content')
-	<h2>Selamat datang ! {{$namelong}}</h2>
+	<!-- <h2>Selamat datang ! {{$namelong}}</h2> -->
 
 @endsection

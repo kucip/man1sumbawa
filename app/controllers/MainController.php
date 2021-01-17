@@ -1,11 +1,11 @@
 <?php
 
-use BasicController;
+// use BasicController;
 use Session;
 
 class MainController extends BasicController {
 
-	public $menuconfig='dashboard';
+	// public $menuconfig='dashboard';
     // public $menudata;
 	public function index(){
 
