@@ -3,7 +3,7 @@
 // use BasicController;
 use Session;
 
-class MainController extends BasicController {
+class BerandaController extends BasicController {
 
 	// public $menuconfig='dashboard';
     // public $menudata;
@@ -33,7 +33,7 @@ class MainController extends BasicController {
      //                'menu'=> $this->menudata['data'],
 					// 'loop' =>5,
 					);
-			return View::make('home',$data);
+			return View::make('beranda',$data);
 		// }
 	}
 
